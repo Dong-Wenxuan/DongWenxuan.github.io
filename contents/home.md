@@ -1,13 +1,13 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently writing a paper about True news & Fake news,using AI to judge their authenticity .
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>2936645138@qq.com</code>  
+<code>19963059063@163.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
+**Shandong University of Finance and Economics University**, Master of XX (XX – XX)  
 • GPA: XX/XX  
 
 **XX University**, Exchange student <br>  
